@@ -366,19 +366,6 @@
 
 
 
-
 .page-footer {
-  width: 100%;
-  padding-top: 30px;
-  max-height: max-content;
-  background-color: #000000; 
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-.page-footer .container-fluid {
-  margin: 20px !important;
-}
-
-.bawah {
-  margin-top: 20px;
+  margin-bottom: -20px;
 }
